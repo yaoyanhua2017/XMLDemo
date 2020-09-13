@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?><books>
+    <book id="bk101">
+        <title>三国演义</title>
+        <author>罗贯中</author>
+        <price>30元</price>
+    </book>
+    
+</books>
